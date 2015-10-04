@@ -1,2 +1,2 @@
 # GandhiTrump
-The name of our Repository does not reflect the content contained
+Data driven generation of Donald Trump speeches.
